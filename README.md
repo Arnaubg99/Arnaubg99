@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## Em dic Arnau Bayó i estic estudiant DAW.
 <!--
 **Arnaubg99/Arnaubg99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
